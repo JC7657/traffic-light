@@ -1,0 +1,36 @@
+.top-stick {
+    font-size: 100px;
+    text-align: center;
+    height: 463px;
+}
+
+.container {
+    width: 130px;
+    border: red solid 1px;
+    margin:auto;
+    text-align: center;
+    background-color: grey;
+    margin-bottom: 100px;
+    margin-top:-200px
+}
+.light {
+    font-size: 100px;
+}
+.red {
+    color: rgb(148, 3, 3)
+}
+.yellow {
+    color:rgb(168, 168, 3)
+}
+.green {
+    color:rgb(0, 122, 0)
+}
+.activered {
+    color:rgb(218, 1, 1)
+}
+.activeyellow {
+    color:rgb(241, 241, 1)
+}
+.activegreen {
+    color:rgb(5, 221, 5)
+}
